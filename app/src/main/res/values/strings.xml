@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tv_show">TV Show</string>
+    <string name="movie">Movie</string>
+    <string name="poster">Poster</string>
+    <string name="setting">Setting</string>
+    <string name="season">Season</string>
+
+
+</resources>
